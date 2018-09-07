@@ -9,7 +9,7 @@
       "tensorPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/MNIST/data.txt",
       "metadataPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/MNIST/metadata.tsv",
       "sprite": {
-        "imagePath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/mnistdigits_MNIST.png",
+        "imagePath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/MNIST/mnistdigits.png",
         "singleImageDim": [
           28,
           28
