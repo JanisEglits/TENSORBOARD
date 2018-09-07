@@ -6,8 +6,8 @@
         5000,
         784
       ],
-      "tensorPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/data_MNIST.txt",
-      "metadataPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/metadata_MNIST.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/MNIST/data.txt",
+      "metadataPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/MNIST/metadata.tsv",
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/mnistdigits_MNIST.png",
         "singleImageDim": [
