@@ -16,5 +16,16 @@
         ]
       }
     }
+
+    {
+      "tensorName": "Enron",
+      "tensorShape": [
+        1046,
+	1045
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/ENRON/data_ENRON.txt",
+      "metadataPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/ENRON/metadata_ENRON.tsv"
+    }
+
   ]
 }
