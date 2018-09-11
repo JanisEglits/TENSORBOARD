@@ -1,15 +1,15 @@
 {
   "embeddings": [
     {
-      "tensorName": "MNIST",
+      "tensorName": "MNIST_NUMBERS",
       "tensorShape": [
         5000,
         784
       ],
-      "tensorPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/MNIST/data.txt",
-      "metadataPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/MNIST/metadata.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/MNIST/NUMBERS/data.txt",
+      "metadataPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/MNIST/NUMBERS/metadata.tsv",
       "sprite": {
-        "imagePath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/MNIST/mnistdigits.png",
+        "imagePath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/MNIST/NUMBERS/mnistdigits.png",
         "singleImageDim": [
           28,
           28
@@ -18,13 +18,39 @@
     },
 
     {
-      "tensorName": "Enron",
+      "tensorName": "MNIST_FASHION",
+      "tensorShape": [
+        5000,
+        784
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/MNIST/FASHION/data.txt",
+      "metadataPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/MNIST/FASHION/metadata.tsv",
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/MNIST/FASHION/mnistfashion.png",
+        "singleImageDim": [
+          28,
+          28
+        ]
+      }
+    },
+
+    {
+      "tensorName": "ENRON",
       "tensorShape": [
         1046,
 		1045
       ],
       "tensorPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/ENRON/data_ENRON.txt",
       "metadataPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/ENRON/metadata_ENRON.tsv"
+    },
+    {
+      "tensorName": "IRIS",
+      "tensorShape": [
+        1046,
+		1045
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/IRIS/data.txt",
+      "metadataPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/IRIS/metadata.tsv"
     }
 
   ]
