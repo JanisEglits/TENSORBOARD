@@ -46,8 +46,8 @@
     {
       "tensorName": "IRIS",
       "tensorShape": [
-        1046,
-		1045
+        150,
+		4
       ],
       "tensorPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/IRIS/data.txt",
       "metadataPath": "https://raw.githubusercontent.com/JanisEglits/TENSORBOARD/master/IRIS/metadata.tsv"
